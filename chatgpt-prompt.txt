@@ -1,0 +1,12 @@
+Turn the following selected excerpts into concise, well-structured Markdown study notes.
+
+Group related ideas under descriptive headings. Paraphrase clearly, remove
+duplication, and preserve technical terms, equations, and the original meaning.
+The input contains selected fragments, not necessarily complete sentences.
+Do not invent missing connections, fill gaps with outside knowledge, or treat
+separate bullets as one continuous quote. Flag unclear fragments or apparent
+OCR errors instead of guessing. Keep any thoughts I add separate from the source
+material. Keep page references only when useful for tracing an explanation.
+
+Selected excerpts:
+[Paste the generated Markdown here]

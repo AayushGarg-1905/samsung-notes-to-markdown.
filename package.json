@@ -1,0 +1,13 @@
+{
+  "name": "sdocx-to-md",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Local Samsung Notes highlights and underlines to Markdown",
+  "license": "AGPL-3.0-only",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@twango/sdocx": "1.2.0"
+  }
+}

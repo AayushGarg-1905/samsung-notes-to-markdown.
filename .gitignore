@@ -1,0 +1,33 @@
+# Personal input documents and extracted notes
+*.sdocx
+*.sdoc
+*.pdf
+/input/
+/output/
+/inspection/
+*.extraction.json
+*.assets/
+
+# Downloaded tools, dependencies, and build artifacts
+/node_modules/
+/.npm-cache/
+/.venv/
+/venv/
+/sdocx/
+/vendor/
+/tessdata/
+/dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+
+# Local settings and secrets
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
